@@ -10,4 +10,4 @@
 
 ### As of 2021, the franchise has played in the NBA playoffs 16 times in 32 seasons, and twice went to the NBA Finals, in 1995 and 2009. Orlando has been the second most successful of the four expansion teams brought into the league in 1988 and 1989 in terms of winning percentage and playoff success, after the Miami Heat.[8]
 
-![the greatest](orlandogreat.jpeg)
+![the greatest](orlandogreats.jpeg)
