@@ -2,7 +2,7 @@
 
 ---
 
-## The Orlando Magic are an American professional basketball team based in Orlando, Florida. The Magic compete in the National Basketball Association (NBA) as a member of the league's Eastern Conference Southeast Division. 
+### The Orlando Magic are an American professional basketball team based in Orlando, Florida. The Magic compete in the National Basketball Association (NBA) as a member of the league's Eastern Conference Southeast Division. 
 
 ### The franchise was established in 1989 as an expansion franchise, and such notable NBA stars as Shaquille O'Neal, Penny Hardaway, Grant Hill, Tracy McGrady, Dwight Howard, Jameer Nelson, Rashard Lewis and Nikola Vučević have played for the club throughout its history. 
 
